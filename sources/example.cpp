@@ -1,4 +1,4 @@
-// Copyright 2021 vlados2003
+// Copyright 2021 Matvey21151
 
 #include <stdexcept>
 #include <tests.hpp>

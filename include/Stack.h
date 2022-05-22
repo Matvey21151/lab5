@@ -1,4 +1,4 @@
-// Copyright 2022 vlados2003
+// Copyright 2022 Matvey21151
 
 #ifndef LAB5_STACK_H
 #define LAB5_STACK_H

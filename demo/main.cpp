@@ -1,4 +1,4 @@
-// Copyright 2022 vlados2003
+// Copyright 2022 Matvey21151
 
 #include <iostream>
 int main() {
